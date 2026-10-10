@@ -36,3 +36,4 @@ interact/*.log
 *.tmp
 *.temp
 test_yaml.txt
+blocksandfiles_stories_with_summaries.json
